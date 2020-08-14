@@ -4,14 +4,14 @@ This directory contains OpenSCAD design files for my camera mounts and a LED dif
 
 ### Bottom mount
 
-![CP40 tool Changer](Camera_Botton_Mount.png)
+![CP40 tool Changer](Camera_Bottom_Mount.png)
 
 This is for a square PCB USB camera you can find on Ebay.
 
 
 ### Top mount
 
-![CP40 tool Changer](Camera_Botton_Top.png)
+![CP40 tool Changer](Camera_Top_Mount.png)
 
 This is for the same sized USB camera as the one mounted at the bottom.
 
