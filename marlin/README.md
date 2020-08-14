@@ -10,7 +10,7 @@ The most obvious changes are:
 - Home position of Z-axis at Z-Max. The Z-axis moves down starting at 0.
 - Configure outputs to be used for vacuum pump, vacuum valve and LED lighting
 
-The not so easy modifications are the LCD status screen where we just want to display all coordinates together with what the machine is doing. All 3d printer related icons are removed.
+The not so easy modifications are for the LCD status screen where we just want to display all coordinates together with what the machine is doing. All 3d printer related icons are removed.
 
 - Remove 3d printer icons
 - Layout all coordinates vertically with XXX.XX precision
