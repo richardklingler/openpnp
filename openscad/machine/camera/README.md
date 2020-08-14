@@ -13,7 +13,7 @@ This is for a square PCB USB camera you can find on Ebay.
 
 ![CP40 tool Changer](Camera_Top_Mount.png)
 
-This is for the same sized USB camera as the one mounted at the bottom.
+This is for the same sized USB camera as the one mounted at the bottom but contains a square hole if yo uwant to resolder the JST PH 2.0 connecter on the back of the PCB.
 
 ### Lens adapter
 
