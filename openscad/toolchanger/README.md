@@ -1,6 +1,6 @@
 ## Tool Changer for CP40 nozzles
 
-![CP40 tool Changer](Tool_Changer.png)
+![CP40 tool Changer](tool_changer.jpg)
 
 This is a simple design for CP40 nozzle holder.
 The number and the distance betwwen nozzles is configurable in OpenSCAD.
@@ -12,3 +12,4 @@ This design uses 4 parts for this:
 - Tool_Changer_Middle.scad: This part uses a clamp mechanism so that nozzles stay in place. The force of the clamp can be adjusted with the 'o' parameter'
 - Tool_Changer_Top.scad: Top layer which will be screwed down to the table with all other parts
 
+![CP40 tool Changer](Tool_Changer.png)
