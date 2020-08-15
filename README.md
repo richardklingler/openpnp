@@ -7,5 +7,6 @@ This is a place where a publish all my work building a pick and place machine in
 
 ### Updates
 
+- 15.08.2020 : Updated Tool Changer design
 - 14.08.2020 : Added OpenSCAD Camera Mounts
 - 14.08.2020 : Added OpenSCAD CP40 Nozzle Holder
