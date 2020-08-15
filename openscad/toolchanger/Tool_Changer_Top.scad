@@ -39,11 +39,13 @@ intersection()
                 translate([w + 10, b + d/2 + (i - 1) * d, s]) cylinder(h + s + 2, tr, tr);
             }
         }
+        // Screw holes for holding all layers together
+        for(i = [1:nozzles - 1])
+        {
+            translate([w - 17, b + d + (i - 1) * d, -1]) cylinder(h + s + 2, 1.6, 1.6);
+        }
         translate([w / 2, b / 2, -1]) cylinder(h + s + 2, 2.2, 2.2);
         translate([w / 2, nozzles * d + 2 * b - b / 2, -1]) cylinder(h + s + 2, 2.2, 2.2);
-
-//        translate([w / 2, b / 2, h + s - 2]) cylinder(3.61, 5.2, 5.2);
-//        translate([w / 2, nozzles * d + 2 * b - b / 2, h + s - 2]) cylinder(3.61, 5.2, 5.2);
     }
     translate([0, 0, h + s - 3]) cube([w, nozzles * d + 2 * b, h + s], false);
 }
