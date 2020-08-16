@@ -12,6 +12,8 @@ This design uses 4 parts for this:
 - Tool_Changer_Middle.scad: This part uses a clamp mechanism so that nozzles stay in place. The force of the clamp can be adjusted with the 'o' parameter'
 - Tool_Changer_Top.scad: Top layer which will be screwed down to the table with all other parts
 
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/qcL0MLGex4M/mq2.jpg?sqp=CKTZ5PkF&rs=AOn4CLDw-2wxv0D9ip1hgE0e9RDCtVD1XA)](https://youtu.be/qcL0MLGex4M "CP40 Nozzle Changer")
+
 ### 3D Printing
 
 I have printed all parts excep the middler layer which clamps the nozzles with ASA material for its strength.
