@@ -10,7 +10,7 @@ I just made them that way so the base frame fits onto an Ikea Lack tabel which m
 
 ### Frame parts list
 
-- 4 * 550mm 40x20 profile 5
-- 6 * 70mm 40x20 profile 5
-- 4 * 510mm 20x20 profile 5
+    4 * 550mm 40x20 profile 5
+    6 * 70mm 40x20 profile 5
+    4 * 510mm 20x20 profile 5
 
