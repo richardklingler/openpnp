@@ -14,7 +14,7 @@ This design uses 4 parts for this:
 
 Here is a YouTube video showing how it works:
 
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/qcL0MLGex4M/mq2.jpg?sqp=CKTZ5PkF&rs=AOn4CLDw-2wxv0D9ip1hgE0e9RDCtVD1XA)](https://youtu.be/qcL0MLGex4M "CP40 Nozzle Changer")
+[![CP40 tool changer in action](youtube.png)](https://youtu.be/qcL0MLGex4M "CP40 Nozzle Changer")
 
 ### 3D Printing
 
