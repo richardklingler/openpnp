@@ -2,6 +2,8 @@
 
 This is a place where a publish all my work building a pick and place machine including mechanics, electronics, Marlin firmware modifications and 3D printed designs.
 
+The machine is driven by the excellent and open sourcde [OpenPNP software] http://openpnp.org .
+
 ![CP40 tool Changer](machine.jpg)
 
 

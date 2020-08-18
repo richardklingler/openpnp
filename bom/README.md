@@ -23,10 +23,14 @@ With the 4 * 120mm width I get a gap of 30mm, which I decided to place it in the
 
     4 * 550m 15x120 profile 8
 
+### Electronics
+
 #### Controller board
 
 For the time being I use a BTT SKR v1.4 board running the Marlin firmware with little modification for the LCD screen.
 The stepper drivers are Trinamic silent step stick.
+
+At a later stage I will design my own ctronller board more suitable for OpenPNP with separate power rails for steppers, lighting, valves and pumps based on a STM32F4 MCU.
 
     1 * BTT SKR v1.4 controller board
     4 * TMC5160 silent step stick for X, 2 * Y and Z
