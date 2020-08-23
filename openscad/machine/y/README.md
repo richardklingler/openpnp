@@ -28,10 +28,6 @@ For the thread I used this thingiverse OpenSCAD library:
 
 For better durability I printed those parts (as most parts of my machine) with ASA filament. It is advisable to print the screw and the knob with a layer height not greater than 0.2mm. Also for both sides for the tensioner mount you have to mirror one mesh in your slicer.
 
-### GT2 clamp
-
-![Y belt GT2 clamp](images/Y_GT2_Clamp.png)
-
 ### X rail mounts
 
 The X rail mounts are designed to be screwed directly onto Igus slider blocks. Also they hold at the bottom the GT2 belt clamp mechanism. Igus rails were chosen for the Y-axis as a 6mm wide GT2 belt fits perfectly between rails and slider block.
@@ -40,4 +36,8 @@ The X rail mounts are designed to be screwed directly onto Igus slider blocks. A
 
 
 ![X Rail Mount](images/X_Rail_Mount.png)
+
+### GT2 clamp
+
+![Y belt GT2 clamp](images/Y_GT2_Clamp.png)
 
