@@ -14,6 +14,10 @@ This is still a work-in-progress project, so not everything is either published 
 
 Currently the Z-axis uses Igus slider which are showing high tolerances when pushed/pulled in Y direction. The rails will be therefore replaced with dual MGN9 rails with 2 carriages each for better stability/accuracy.
 
+#### X-axis rework
+
+Also the Igus rails on the X-axis are unacceptable. Seems Igus rails are only halfway usable when lying flat, just like for the Y-axis. The new X-axis will use two MGN9 rails, one on top and one at the bottom of the X-axis profile.
+
 ### Updates
 
 - 23,08.2020 : Added Y axis OpenSCAD design files
