@@ -14,6 +14,8 @@ The Y motor mount takes a Nema 17 motor with a width of 42mm mounted with 4 M3x8
 
 ### Y belt tensioner
 
+![Y Belt Tensioner](images/tensioner_knob.jpg)
+
 The belt tensioner for the y-axis consists of three parts:
 
     - Tensioner screw
