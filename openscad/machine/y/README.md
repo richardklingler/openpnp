@@ -32,3 +32,12 @@ For better durability I printed those parts (as most parts of my machine) with A
 
 ![Y belt GT2 clamp](images/Y_GT2_Clamp.png)
 
+### X rail mounts
+
+The X rail mounts are designed to be screwed directly onto Igus slider blocks. Also they hold at the bottom the GT2 belt clamp mechanism. Igus rails were chosen for the Y-axis as a 6mm wide GT2 belt fits perfectly between rails and slider block.
+
+![X Rail Mount](images/x_rail_mount.jpg)
+
+
+![X Rail Mount](images/X_Rail_Mount.png)
+
