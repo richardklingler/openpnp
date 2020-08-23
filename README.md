@@ -6,6 +6,13 @@ The machine is driven by the excellent and open sourced [OpenPNP software](http:
 
 ![My pick and place machine running OpenPNP](machine.jpg)
 
+### Things to do
+
+This is still a work-in-progress project, so not everything is either published or at final stage. Currently following tasks are ongoing:
+
+#### Z-axis rework
+
+Currently the Z-axis uses Igus slider which are showing high tolerances when pushed/pulled in Y direction. The rails will be therefore replaced with dual MGN9 rails with 2 carriages each for better stability/accuracy.
 
 ### Updates
 
