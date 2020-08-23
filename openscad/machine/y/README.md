@@ -30,5 +30,5 @@ For better durability I printed those parts (as most parts of my machine) with A
 
 ### GT2 clamp
 
-![Y Motor Mount](images/X_GT2_Clamp.png)
+![Y belt GT2 clamp](images/Y_GT2_Clamp.png)
 
