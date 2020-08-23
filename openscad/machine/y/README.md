@@ -12,3 +12,17 @@ The Y motor mount takes a Nema 17 motor with a width of 42mm. It is mounted with
 
 ![Y Motor Mount](images/Y_Tensioner_Right.png)
 
+### Y belt tensioner
+
+The belt tensioner for the y-axis consists of three parts:
+
+    - Tensioner screw
+    - Tensioner knob
+    - Tensioner mount
+
+For the thread I used this thingiverse OpenSCAD library:
+
+[OpenScad library. Threads for screws and nuts V1](https://www.thingiverse.com/thing:3131126)
+
+For better durability I printed those parts (as most parts of my machine) with ASA filament. It is advisable to print the screw and the knob with a layer height not greater than 0.2mm.
+
