@@ -4,7 +4,7 @@ This is a place where a publish all my work building a pick and place machine in
 
 The machine is driven by the excellent and open sourced [OpenPNP software](http://openpnp.org).
 
-![CP40 tool Changer](machine.jpg)
+![My pick and place machine running OpenPNP](machine.jpg)
 
 
 ### Updates
