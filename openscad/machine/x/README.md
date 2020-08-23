@@ -9,5 +9,5 @@ Be aware that the resulting STL files might give different results in your 3D pr
 ![X Rail Mount](images/x_rail_mount.jpg)
 
 
-![Y Motor Mount](images/X_Rail_Mount.png)
+![X Rail Mount](images/X_Rail_Mount.png)
 
