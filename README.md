@@ -20,6 +20,7 @@ Also the Igus rails on the X-axis are unacceptable. Seems Igus rails are only ha
 
 ### Updates
 
+- 23.08.2020 : Added OpenSCAD designs for electronics
 - 23.08.2020 : Added Y axis OpenSCAD design files
 - 15.08.2020 : Updated Tool Changer design
 - 14.08.2020 : Added OpenSCAD Camera Mounts
