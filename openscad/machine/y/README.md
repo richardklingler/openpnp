@@ -8,7 +8,7 @@ Be aware that the resulting STL files might give different results in your 3D pr
 
 ![Y Motor Mount](images/y_motor_mount.jpg)
 
-The Y motor mount takes a Nema 17 motor with a width of 42mm mounted with 4 M3x8 counter sunk head screws. It is mounted with 3 M5 screws directly at the back of machine on the aluminum frame. There is only one design file, so for printing both sides you have to mirror one mesh in your slicer software.
+The Y motor mount takes a Nema 17 motor with a width of 42mm mounted with 4 M3x8 counter sunk head screws. It is mounted with 3 M5x10 counter sunk head screws directly at the back of machine on the aluminum frame. There is only one design file, so for printing both sides you have to mirror one mesh in your slicer software.
 
 ![Y Motor Mount](images/Motor_Holder_Y_Left.png)
 
