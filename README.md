@@ -12,7 +12,7 @@ This is still a work-in-progress project, so not everything is either published 
 
 #### Z-axis rework
 
-Currently the Z-axis uses Igus slider which are showing high tolerances when pushed/pulled in Y direction. The rails will be therefore replaced with dual MGN9 rails with 2 carriages each for better stability/accuracy.
+Currently the Z-axis uses Igus slider which are showing high tolerances when pushed/pulled in Y direction. The rails will be therefore replaced with dual MGN9 rails with 2 carriages each for better stability/accuracy. A dual rail design could then also be used for a dual-nozzle setup.
 
 #### X-axis rework
 
