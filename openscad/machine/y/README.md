@@ -39,5 +39,14 @@ The X rail mounts are designed to be screwed directly onto Igus slider blocks. A
 
 ### GT2 clamp
 
+This is a preliminary design as I think that it might be the cause for some backslash in the Y-axis.
+
 ![Y belt GT2 clamp](images/Y_GT2_Clamp.png)
 
+The GT2 clamp which mounts directly under the X-rail mounts uses a GT2 timing belt OpenSCAD module used for cutting out the profile. Depending on the thickness of the belt you might want to adjust this section:
+
+    translate([-2, 3.35, 6]) belt_len(profile = tGT2_2, belt_width = 8, len = 100);
+    translate([-2.2, 3.5, 6]) belt_len(profile = tGT2_2, belt_width = 8, len = 100);
+    translate([-1.9, 3.5, 6]) belt_len(profile = tGT2_2, belt_width = 8, len = 100);
+
+It just cuts out the GT2 slot at slightly different location to accommodate for thicker belts. You might want to do some test prints and check with your GT2 belt if it fits perfectly and doesn't causes any backslash.
