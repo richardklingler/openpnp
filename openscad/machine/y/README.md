@@ -27,3 +27,8 @@ For the thread I used this thingiverse OpenSCAD library:
 [OpenScad library. Threads for screws and nuts V1](https://www.thingiverse.com/thing:3131126)
 
 For better durability I printed those parts (as most parts of my machine) with ASA filament. It is advisable to print the screw and the knob with a layer height not greater than 0.2mm. Also for both sides for the tensioner mount you have to mirror one mesh in your slicer.
+
+### GT2 clamp
+
+![Y Motor Mount](images/X_GT2_Clamp.png)
+
