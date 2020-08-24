@@ -14,7 +14,7 @@ This is a holder for the Newhaven LC display INHD-C12864-1Z-FSW-FB-HTT. It is me
 
 ### Power supply mount
 
-![BTT SKR v1.4 mount](images/psu_mount.jpg)
+![PSU mount](images/psu_mount.jpg)
 
 ### Vacuum pump holder
 
