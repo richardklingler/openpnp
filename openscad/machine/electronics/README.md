@@ -20,5 +20,5 @@ This is a holder for the Newhaven LC display INHD-C12864-1Z-FSW-FB-HTT. It is me
 
 ![Vacuum pump mount](images/vacuum_pump_mount.jpg)
 
-![Vacuum pump mount](images/Vacuum_Pump_Holder.jpg)
+![Vacuum pump mount](images/Vacuum_Pump_Holder.png)
 
