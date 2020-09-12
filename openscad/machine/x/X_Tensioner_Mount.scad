@@ -20,10 +20,10 @@ difference()
         // Top plate
         hull()
         {
-            translate([0, p + t, 2 * p]) cube([2 * p + t, p, t], false);
-            translate([0, 0, 2 * p]) cube([p + t, p, t], false);
+            translate([0, p + t, 2 * p]) cube([3 * p + t, p, t], false);
+            translate([0, 0, 2 * p]) cube([p + t + 8, p, t], false);
         }
-        translate([t, 0, 0]) cube([p, p + t, 2 * p], false);
+        translate([t, 0, 0]) cube([p + 8, p + t, 2 * p], false);
     }
     // Mounting screw holes
     translate([- 1, 2 * p - t, p/2]) rotate([0, 90, 0]) cylinder(t + 2, r2, r2);
@@ -35,8 +35,8 @@ difference()
     translate([p/2 + t, 2 * p - t, 2 * p - 1]) cylinder(t + 2, r2, r2);
     translate([p/2 + t, 2 * p - t, 2 * p + t - 3]) cylinder(3.1, r2, r1);
 
-    translate([p/2 + t + p, 2 * p - t, 2 * p - 1]) cylinder(t + 2, r2, r2);
-    translate([p/2 + t + p, 2 * p - t, 2 * p + t - 3]) cylinder(3.1, r2, r1);
+    translate([p/2 + 2 * p, 2 * p - t, 2 * p - 1]) cylinder(t + 2, r2, r2);
+    translate([p/2 + 2 * p, 2 * p - t, 2 * p + t - 3]) cylinder(3.1, r2, r1);
     
     // Tensioner screw cutout
     translate([0, 3 * p + t, 10])
@@ -48,7 +48,7 @@ difference()
     }
     hull()
     {
-        translate([12, p/2, p]) rotate([90, 0, 0]) cylinder(p, 4.6, 4.6);
-        translate([25, p/2, p]) rotate([90, 0, 0]) cylinder(p, 4.6, 4.6);
+        translate([20, p/2, p]) rotate([90, 0, 0]) cylinder(p, 4.6, 4.6);
+        translate([33, p/2, p]) rotate([90, 0, 0]) cylinder(p, 4.6, 4.6);
     }
 }
