@@ -20,6 +20,7 @@ Also the Igus rails on the X-axis are unacceptable. Seems Igus rails are only ha
 
 ### Updates
 
+- 12.09.2020 : Added X belt tensioner mount
 - 24.08.2020 : Added vacuum pump mount
 - 23.08.2020 : Added OpenSCAD designs for electronics
 - 23.08.2020 : Added Y axis OpenSCAD design files
