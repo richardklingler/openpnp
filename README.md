@@ -6,6 +6,14 @@ The machine is driven by the excellent and open sourced [OpenPNP software](http:
 
 ![My pick and place machine running OpenPNP](machine.jpg)
 
+### Sponsoring
+
+All required hardware is financed with my low little budget, so every donation is very welcome, either through the Patreon link on the side or through Paypal Me:
+
+[Paypal Me](https://paypal.me/renderingfun)
+
+Currently work is on hold due to missing funds.
+
 ### Things to do
 
 This is still a work-in-progress project, so not everything is either published or at final stage. Currently following tasks are ongoing:
